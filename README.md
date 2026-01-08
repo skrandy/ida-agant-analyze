@@ -1,4 +1,4 @@
-# ida-agant-analyze
+# ida-agent-analyze
 ida+ai自动分析反汇编函数
 
 #before 
